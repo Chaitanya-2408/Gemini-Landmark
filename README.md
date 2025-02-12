@@ -1,0 +1,1 @@
+The Gemini Landmark Description App is an AI-powered mobile application designed to recognize landmarks, generate detailed descriptions, and provide multilingual support. By leveraging image recognition and cloud-based AI models, this app enhances the way tourists explore and learn about historical and cultural sites in real time.
